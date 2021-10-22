@@ -1,0 +1,1 @@
+<strong> To be cool you have to be able to dress nice. </strong>
