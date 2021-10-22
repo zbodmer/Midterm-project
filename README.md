@@ -6,4 +6,4 @@ You wanna be cool go to the cool file
 
 <strong> Im cool </strong>
 
-A*Guy*Im cool
+A *Guy* Im cool
